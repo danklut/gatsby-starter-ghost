@@ -3,17 +3,17 @@
   "description": "A starter template to build lightning fast websites with Ghost and Gatsby",
   "version": "1.0.0",
   "license": "MIT",
-  "author": "Ghost Foundation",
+  "author": "danklut",
   "homepage": "https://docs.ghost.org/api/gatsby/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tryghost/gatsby-starter-ghost.git"
+    "url": "git+https://github.com/danklut/gatsby-starter-ghost.git"
   },
   "engines": {
     "node": ">= 8.9.0"
   },
   "bugs": {
-    "url": "https://github.com/tryghost/gatsby-starter-ghost/issues"
+    "url": "https://github.com/danklut/gatsby-starter-ghost/issues"
   },
   "keywords": [
     "gatsby",
